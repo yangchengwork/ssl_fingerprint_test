@@ -1,0 +1,14 @@
+{
+  "name": "read_ssl_fingerprint",
+  "version": "0.0.1",
+  "description": "尝试读取网站的fingerprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gump Yang",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "tls": "0.0.1"
+  }
+}
