@@ -1,0 +1,2 @@
+# ssl_fingerprint_test
+尝试使用不同语言读取网站的fingerprint
